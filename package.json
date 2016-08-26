@@ -1,0 +1,22 @@
+{
+  "name": "dat-list",
+  "version": "1.0.0",
+  "description": "List files from a Dat (Dat Extension)",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joehand/dat-list.git"
+  },
+  "author": "Joe Hand <joe@hand.email> (https://joeahand.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/joehand/dat-list/issues"
+  },
+  "homepage": "https://github.com/joehand/dat-list#readme",
+  "dependencies": {
+    "hyperdrive": "^7.3.0",
+    "hyperdrive-archive-swarm": "^4.0.0",
+    "memdb": "^1.3.1",
+    "stream-each": "^1.1.2"
+  }
+}
